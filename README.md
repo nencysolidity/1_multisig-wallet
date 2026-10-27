@@ -10,10 +10,10 @@ It enables multiple owners to confirm and execute transactions securely, ensurin
 - 5ireChain Thunder Testnet
 
 ## **Proofs**
-### Remix - 
+### Remix - 1_Remix_deployment_proof
 Shows successful compilation and transaction execution in Remix IDE.  
 
-### MetaMask -
+### MetaMask - 
 Transaction confirmed in MetaMask with gas fee details.
 
 ### 5ire Explorer -
