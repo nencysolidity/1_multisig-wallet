@@ -16,7 +16,7 @@ Shows successful compilation and transaction execution in Remix IDE.
 ### MetaMask - 2_Metamask_deployment_proof
 Transaction confirmed in MetaMask with gas fee details.
 
-### 5ire Explorer - 
+### 5ire Explorer - 3_5ire_testnet_deployment
 On‑chain explorer view confirming contract deployment. 
 
 ## **How to Deploy**
