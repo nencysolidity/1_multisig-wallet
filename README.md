@@ -38,9 +38,12 @@ Deploy the contract from Remix, MetaMask will prompt for confirmation, check gas
 
 ## **Smart Contract Summary**
 
--Multiple owners can submit and confirm transactions.
--Execution requires reaching the required number of confirmations.
--Events are logged for transparency and auditing.
+- Multiple owners can submit and confirm transactions.
+- Execution requires reaching the required number of confirmations.
+- Events are logged for transparency and auditing.
+
+## **Acknowledgment**
+This project was inspired by MultiSig Wallet tutorial by Code Eater. I followed the learning resource and added my own deployment proofs, documentation, and structure for portfolio purposes.
 
 
 
