@@ -13,10 +13,10 @@ It enables multiple owners to confirm and execute transactions securely, ensurin
 ### Remix - 1_Remix_deployment_proof
 Shows successful compilation and transaction execution in Remix IDE.  
 
-### MetaMask - 
+### MetaMask - 2_Metamask_deployment_proof
 Transaction confirmed in MetaMask with gas fee details.
 
-### 5ire Explorer -
+### 5ire Explorer - 
 On‑chain explorer view confirming contract deployment. 
 
 ## **How to Deploy**
